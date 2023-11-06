@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desktop and Web Developer, <br>currently studying 😊.
+Desktop and Web Developer, <br>currently studying Bachelor of Technology in Artificial Intelligence😊.
 
 
 ## 🌐 Socials:
