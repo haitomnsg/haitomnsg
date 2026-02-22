@@ -192,7 +192,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!&font=Fira+Code&center=true&width=500&height=45&color=70a5fd&vCenter=true&pause=1000&size=18&repeat=true" />
-  <br/><br/>
-  <samp>"The best way to predict the future is to invent it." — Alan Kay</samp>
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!&font=Fira+Code&center=true&width=500&height=45&color=70a5fd&vCenter=true&pause=1000&size=18&repeat=true" />
 </div>
