@@ -1,7 +1,9 @@
-<h1 align="center">Hey 👋, I'm Ashish!</h1>
+﻿<p align="center">
+  <samp><b><font size="+4">Hey 👋, I'm Ashish!</font></b></samp>
+</p>
 
 <p align="center">
-  I'm Ashish Gupta, a multidisciplinary engineer building intelligent robots and AI-driven systems to solve real-world problems. With a passion for code, vision, and robotics, I aim to create machines that don't just function, they think, act, and help shape the future.
+  I'm Ashish Gupta, a multidisciplinary engineer building intelligent robots and AI-driven systems to solve real-world problems. With a passion for code, vision, and robotics, I aim to create machines that don't just function — they think, act, and help shape the future.
 </p>
 
 <!-- Animated Typing SVG -->
@@ -31,11 +33,9 @@
   <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=haitomnsg&color=70a5fd&style=for-the-badge" />
 </p>
 
----
+### 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming & Markup Languages
+#### 👨‍💻 Programming & Markup Languages
 
 <p>
   <a href="https://github.com/search?q=user%3Ahaitomnsg+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -54,7 +54,7 @@
   <a href="https://github.com/search?q=user%3Ahaitomnsg+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks & Libraries
+#### 🧰 Frameworks & Libraries
 
 <p>
   <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
@@ -84,7 +84,7 @@
   <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B.svg?logo=wordpress&logoColor=white"></a>
 </p>
 
-### 🤖 AI / ML & Data Science
+#### 🤖 AI / ML & Data Science
 
 <p>
   <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?logo=anaconda&logoColor=white"></a>
@@ -101,7 +101,7 @@
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases
+#### 🗄️ Databases
 
 <p>
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00.svg?logo=firebase&logoColor=white"></a>
@@ -114,7 +114,7 @@
   <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-### ☁️ Cloud & DevOps
+#### ☁️ Cloud & DevOps
 
 <p>
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonwebservices&logoColor=white"></a>
@@ -136,7 +136,7 @@
   <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white"></a>
 </p>
 
-### 🔌 Robotics & Hardware
+#### 🔌 Robotics & Hardware
 
 <p>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?logo=arduino&logoColor=white"></a>
@@ -144,7 +144,7 @@
   <a href="#"><img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-76B900.svg?logo=nvidia&logoColor=white"></a>
 </p>
 
-### 🎨 Design
+#### 🎨 Design
 
 <p>
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
@@ -155,11 +155,24 @@
   <a href="#"><img alt="Framer" src="https://img.shields.io/badge/Framer-0055FF.svg?logo=framer&logoColor=white"></a>
 </p>
 
----
+### 📘 Top Projects
 
-## 📊 Stats and Activity
+<p>
+  <a href="https://github.com/haitomnsg/doclipi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haitomnsg&repo=doclipi&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/haitomnsg/arthaVidhinode"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haitomnsg&repo=arthaVidhinode&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/haitomnsg/jiffify"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haitomnsg&repo=jiffify&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/haitomnsg/phulbari"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haitomnsg&repo=phulbari&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/haitomnsg/recyclo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haitomnsg&repo=recyclo&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/haitomnsg/redsoil"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haitomnsg&repo=redsoil&theme=tokyonight&hide_border=true" /></a>
+</p>
 
-### 🔥 Streak Stats
+<p align="center">
+  <a href="https://github.com/haitomnsg?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-70a5fd?style=for-the-badge&logoColor=white&logo=repo" /></a>
+</p>
+
+### 📊 Stats and Activity
+
+#### 🔥 Streak Stats
 
 <p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -167,15 +180,24 @@
   </a>
 </p>
 
-### 💻 GitHub Profile Stats
+#### 💻 GitHub Profile Stats
 
-<img alt="Ashish's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=haitomnsg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/>
+<p>
+  <img alt="Ashish's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=haitomnsg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px" />
+  <img alt="haitomnsg's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=haitomnsg&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px" />
+</p>
 
-<img alt="haitomnsg's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=haitomnsg&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px" />
-<br/>
-
-### 📈 Contribution Graph
+#### 📈 Contribution Graph
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="haitomnsg's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=haitomnsg&bg_color=1a1b27&color=a9b1d6&line=70a5fd&point=bf91f3&hide_border=true" /></a>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!+🙏;Let's+build+something+amazing+together!&font=Fira+Code&center=true&width=500&height=45&color=70a5fd&vCenter=true&pause=1000&size=18&repeat=true" />
+  <br/><br/>
+  <samp>"The best way to predict the future is to invent it." — Alan Kay</samp>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/haitomnsg"><img src="https://img.shields.io/badge/Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="http://haitomns.dev"><img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</div>
