@@ -1,16 +1,14 @@
-﻿<p align="center">
-  <samp><b><font size="+4">Hey 👋, I'm Ashish!</font></b></samp>
-</p>
+<div align="center">
+  <h1>Hey 👋, I'm Ashish!</h1>
+</div>
 
 <p align="center">
-  I'm Ashish Gupta, a multidisciplinary engineer building intelligent robots and AI-driven systems to solve real-world problems. With a passion for code, vision, and robotics, I aim to create machines that don't just function — they think, act, and help shape the future.
+  I'm Ashish Gupta, a multidisciplinary engineer building intelligent robots and AI-driven systems to solve real-world problems. With a passion for code, vision, and robotics, I aim to create machines that don't just function, they think, act, and help shape the future.
 </p>
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Robotics+Engineer;AI+/+ML+/+DL+Enthusiast;Software+Developer;Building+Intelligent+Machines&font=Fira+Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Robotics+Engineer;AI+/+ML+/+DL+Enthusiast;Software+Developer;Building+Intelligent+Machines&font=Fira+Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" />
 </p>
 
 <!-- Social Links -->
@@ -194,10 +192,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!+🙏;Let's+build+something+amazing+together!&font=Fira+Code&center=true&width=500&height=45&color=70a5fd&vCenter=true&pause=1000&size=18&repeat=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!&font=Fira+Code&center=true&width=500&height=45&color=70a5fd&vCenter=true&pause=1000&size=18&repeat=true" />
   <br/><br/>
   <samp>"The best way to predict the future is to invent it." — Alan Kay</samp>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/haitomnsg"><img src="https://img.shields.io/badge/Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="http://haitomns.dev"><img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
